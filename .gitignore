@@ -1,0 +1,8 @@
+# Eclipse specific files
+.settings/
+.classpath
+.project
+
+# Generated files
+target/
+dependency-reduced-pom.xml
